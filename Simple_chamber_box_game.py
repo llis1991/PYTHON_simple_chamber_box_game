@@ -2,7 +2,7 @@
 import random
 
 
-gameLenght = 5
+gameLength = 5
 summaryGold=0
 
 giftFromBox = ["green box - 1000 gold", "orange box - 4000 gold", "purple box - 9000 gold", "gold box - 16000 gold",]
